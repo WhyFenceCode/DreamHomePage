@@ -119,7 +119,7 @@ h1, h2, h3, input, select, button, span, a {
   font-weight: 500;
 }
 
-#nav .nav-info > .nav-info-selection-button > .nav-category-label {
+#nav .nav-info > .nav-info-selection-button > .nav-weather-label {
   color: rgba(255, 255, 255, 0.7);
   font-size: 0.8rem;
 }
