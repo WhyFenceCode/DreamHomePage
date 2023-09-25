@@ -64,6 +64,7 @@ h1, h2, h3, input, select, button, span, a {
   display: flex;
   align-items: center;
   padding: 1rem;
+  background-image: linear-gradient(to bottom right, orange, yellow);
 }
 
 #nav .nav-logo {
