@@ -61,7 +61,7 @@ h1, h2, h3, input, select, button, span, a {
 }
 
 #gradient {
-  background-image: linear-gradient(linear-gradient(to bottom right, orange, yellow), black);
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0), black), linear-gradient(to bottom right, orange, yellow);
 }
 #nav {  
   display: flex;
